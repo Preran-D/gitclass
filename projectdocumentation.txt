@@ -1,0 +1,17 @@
+Bank Mgmt System
+This is a console based  dummy project for xyz Bank
+The main functionalities should be:-
+--Open a new account
+--Deposit amount
+--Withdraw Amount
+--Balance Enquiry
+--Close Bank Account
+--Modify Bank Account
+--Bank customer list 
+--Applying for Loan :- When an existing customer applies for loan then the following details should be displayed 
+    Load-id:
+    Account-number:
+    Interest-rate:
+    Duration:
+    Start-date:
+    Due-amount:
